@@ -1,0 +1,6 @@
+NOT GENERATED — this file is a placeholder, not AWS evidence.
+
+After your AWS configuration is ready, run from this project directory:
+  ./collect-evidence.sh cv-23l-3005 YOUR_EC2_PUBLIC_IP YOUR_LAMBDA_FUNCTION_URL
+
+The script will overwrite this file with the evidence it can collect. Review every section and preserve actual failures; do not invent successful results.

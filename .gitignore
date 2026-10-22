@@ -1,0 +1,6 @@
+# Local/editor files
+.DS_Store
+*.swp
+*~
+
+# Keep evidence.txt in the repository because it is a submission artifact.
